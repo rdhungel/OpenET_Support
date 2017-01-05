@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #--------------------------------
 # Name:         monte_carlo_func.py
-# Purpose:      METRIC Automated Hot/Cold Pixel Selection
+# Purpose:      Generate various plots based on CDL
 # Author:       Ramesh Dhungel/Charles Morton
 # Created       2017-01-04
 # Python:       2.7
