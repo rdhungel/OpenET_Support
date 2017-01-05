@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #--------------------------------
 # Name:         auto_calibration_func.py
-# Purpose:      METRIC Automated Calibration based on ETRF distribution
+# Purpose:      Function for developing plots based on CDL
 # Author:       Ramesh Dhungel/Charles Morton
 # Created       2017-01-04
 # Python:       2.7
