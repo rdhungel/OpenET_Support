@@ -2,7 +2,7 @@
 #--------------------------------
 # Name:         landsat_prep_ini.py
 # Purpose:      Prepare Landsat path/row data
-# Author:       Charles Morton
+# Author:       Charles Morton/Ramesh Dhungel
 # Created       2016-09-01
 # Python:       2.7
 #--------------------------------
