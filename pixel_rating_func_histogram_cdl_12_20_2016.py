@@ -2,7 +2,7 @@
 # --------------------------------
 # Name:         pixel_rating_func.py
 # Purpose:      METRIC Hot/Cold Pixel Rating Tool
-# Author:       Charles Morton
+# Author:       Charles Morton/Ramesh Dhungel
 # Created       2016-01-25
 # Python:       2.7
 # --------------------------------

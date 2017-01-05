@@ -2,8 +2,8 @@
 #--------------------------------
 # Name:         monte_carlo_func.py
 # Purpose:      METRIC Automated Hot/Cold Pixel Selection
-# Author:       Charles Morton
-# Created       2016-09-02
+# Author:       Ramesh Dhungel/Charles Morton
+# Created       2017-01-04
 # Python:       2.7
 #--------------------------------
 
